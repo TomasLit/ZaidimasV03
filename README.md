@@ -1,6 +1,6 @@
 # ZaidimasV03
 
-ZaidimasV02 with graphical interface made with tkinter.
+ZaidimasV02 with added graphical interface made with tkinter. Basically had to rewrite the whole program. 
 
 #ZaidimasV01
 
